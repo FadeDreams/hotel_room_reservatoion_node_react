@@ -1,0 +1,8 @@
+https://github.com/RaphaelJjaggerd/sheyrooms-/blob/master/server/server.js
+
+
+
+mongodump 
+mongodb+srv://Raphael:qwertyuiop@cluster0.u1vug.mongodb.net/mern-rooms
+
+mongodump -h cluster0.u1vug.mongodb.net:27017 -d 'mern-rooms' -u Raphael -p 'qwertyuiop'
